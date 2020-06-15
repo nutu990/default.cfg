@@ -1,0 +1,2 @@
+# default.cfg
+descriere cfg
